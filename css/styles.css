@@ -1,0 +1,412 @@
+span{
+    color: blue;
+    font-family: sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-decoration: none;
+    
+
+}
+.duen{
+    
+
+    font-family:  sans-serif ; 
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-decoration: none;
+    color: black;
+
+}
+
+.liz{
+    color: blue;
+    font-family: sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+text-align: left;
+font-style: normal;
+text-decoration: none;
+
+}
+.liza{
+    color: black;
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+text-decoration: none;
+list-style: none;
+
+
+}
+.vetal{
+    background-color: #2F303A;
+    color: blanchedalmond;
+    text-align:center ;
+    font-family: sans-serif;
+font-size: 44px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0.06em;
+text-align: center;
+}
+.lizaa{
+    color: #2196F3;
+    font-family: sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+text-align: left;
+text-decoration: none;
+list-style: none;
+
+}
+.lizap{
+    color: #757575;
+    font-family: sans-serif;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+text-align: left;
+text-decoration: none;
+list-style: none;
+
+}
+.button{
+    font-family: sans-serif;
+font-size: 16px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.06em;
+text-align: center;
+ background : #2196F3;
+ color: white
+
+    ;
+}
+.vetall{
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #212121;
+
+    
+    
+}
+.goit{
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #757575;
+    
+}
+    .ua{
+        font-family: sans-serif;
+font-size: 14px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #212121;
+
+    }
+    .uk{
+        font-family: sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #757575;
+
+    }
+    .better{
+        font-family: sans-serif;
+font-size: 14px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #212121;
+
+    }
+    .im{
+        font-family: sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #757575;
+
+    }
+    .st{
+        font-family: sans-serif;
+font-size: 14px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #212121;
+
+    }
+    .bt{
+        font-family: sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #757575;
+
+    }
+.ky{
+    font-family: sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #212121;
+
+}
+.vn{
+    height: 294px;
+width: 370px;
+left: 215px;
+top: 1058px;
+border-radius: 0px;
+
+}
+.od{
+    height: 294px;
+width: 370px;
+left: 615px;
+top: 1058px;
+border-radius: 0px;
+
+}
+.dn{
+    height: 294px;
+width: 370px;
+left: 1015px;
+top: 1058px;
+border-radius: 0px;
+
+}
+.ma{
+    font-family: sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #212121;
+
+}
+.yx{
+    height: 260px;
+width: 270px;
+left: 215px;
+top: 1632px;
+border-radius: 0px;
+
+}
+.an{
+    font-family: sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #212121;
+text-decoration: none;
+}
+.vk{
+    font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+text-decoration: none;
+color: #757575;
+
+}
+.jk{
+    height: 260px;
+width: 270px;
+left: 515px;
+top: 1632px;
+border-radius: 0px;
+
+}
+.hg{
+    font-family: sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #212121;
+
+}
+.df{
+    font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #757575;
+
+}
+.we{
+    height: 260px;
+width: 270px;
+left: 815px;
+top: 1632px;
+border-radius: 0px;
+
+}
+.you{
+    font-family: sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #212121;
+
+}
+.lo{
+    font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #757575;
+
+}
+.as{
+    height: 260px;
+width: 270px;
+left: 1115px;
+top: 1632px;
+border-radius: 0px;
+
+}
+.cl{
+    font-family: sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #212121;
+
+}
+.m{
+    font-family: sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #757575;
+
+}
+.dym{
+    font-family: Raleway;
+font-size: 26px;
+font-weight: 400;
+line-height: 31px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #0c0d0e;
+
+}
+.span{
+    font-family: sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #2196F3;
+    text-decoration: none;
+}
+.dym{
+    
+font-family: sans-serif;
+font-size: 26px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #FFFFFF;
+text-decoration: none;
+}
+.kl{
+    font-family: sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #FFFFFF;
+
+}
+.op{
+    font-family: sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #FFFFFF;
+}
+.page-footer{
+     background-color: #2F303A;
+     height: 252px;
+     width: 1600px;
+     left: 0px;
+     top: 2094px;
+     border-radius: 0px;
+     
+
+}
+.ann{
+    font-family: sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #FFFFFF;
+}
+
+.page-footer{
+     background-color:#2F303A;
+    
+    
+}
